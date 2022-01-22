@@ -4,7 +4,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 Reach me on my mail"ujjwalkr.1711@gmail.com"or Linkin <a href="https;//www.linkedin.com/in/ujjwal-kuma-17n1999">@ujjwal-kuma-17n1999</a>
+- 📫 Reach me on my mail"ujjwalkr.1711@gmail.com"or Linkin <a href="https://www.linkedin.com/in/ujjwal-kuma-17n1999" target=_blank>@ujjwal-kuma-17n1999</a>
 
 <!---
 ujjwalkr1711/ujjwalkr1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
